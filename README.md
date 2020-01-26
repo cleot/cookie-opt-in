@@ -1,6 +1,10 @@
 # cookie-opt-in
 Cookie Consent, Comply with GDPR + EU Cookie law
 
+Based on https://www.privacypolicies.com/de/cookie-einwilligung/
+
+
+
 
 Cookie Consent Levels
 The following levels are available in Cookie Consent:
